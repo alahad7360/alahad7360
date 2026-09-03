@@ -72,12 +72,33 @@ I want to become a skilled engineer and create useful technology that can solve 
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-🚧 **More projects coming soon...**
+<div align="center">
 
-I am currently learning and working on new projects.  
-Stay tuned!
+### 🤖 Mechatronics Projects
+Exploring robotics, electronics, automation, and control systems.
+
+### 💻 Programming Projects
+Building small projects while learning Python, web development, and software.
+
+### 🧠 AI & Automation
+Learning how artificial intelligence can be used with robotics and automation.
+
+</div>
+
+> 🚧 More projects will be added here soon. Stay tuned!
+
+---
+
+## 🌱 What I'm Doing Now
+
+- 🎓 Studying Mechatronics Engineering
+- 🤖 Learning Robotics & Automation
+- 🐍 Improving my Python skills
+- 🔧 Exploring Arduino & Electronics
+- 🧠 Learning about AI
+- 🚀 Building my first serious projects
 
 ---
 
