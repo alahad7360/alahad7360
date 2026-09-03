@@ -136,6 +136,14 @@ When I'm not studying or coding, I enjoy playing games and exploring new technol
 
 ---
 
+<div align="center">
+
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Learning. Keep Building. Keep Growing. 🚀**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=alahad7360&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
